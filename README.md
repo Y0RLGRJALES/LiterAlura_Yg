@@ -63,9 +63,9 @@ El menú de consultas incluye:
 
 ---
 
-## 🌍 Idiomas soportados
+## 🌍 Idiomas soportados en la opcion 8
 
-Para la opción 8, se utilizan abreviaturas ISO 639-1:
+Para la opción 8, se utilizan abreviaturas ISO 639-1: para mostrar la cantidad de libros en determinado idioma 
 
 * Español = `es`
 * Inglés = `en`
